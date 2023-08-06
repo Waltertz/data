@@ -1,0 +1,18 @@
+{ 
+"total_size":8,
+"type_id":2,
+"offset":0,
+"products": [
+{
+"id":1,
+"name": "Airforce 1",
+"description": "There’s hype, which alludes to the “buzz” around certain releases or models. Then there’s popularity, which can be looked at in terms of sales. If a shoe is consistently the best seller of the biggest sneaker brand, then it is easily the most popular sneaker out there. The standard white-on-white Air Force 1 is of course a constant seller that is available everywhere. I don’t have the actual data on this, but I’m willing to bet that this sneaker alone accounts for a bulk of AF1 sales. It’s a perfect sneaker to buy when you don’t know what other sneaker to get and don’t want to take a chance on buying something “uncool”. Why Are Air Force Ones So Popular? The classic yet stylish look, proportions, availability, comfort, and wearability all factor into the Air Force 1s popularity. Air Force 1s look great with most casual outfits and have a rich history that appeals to sneaker fanatics."
+ "price":12,
+"stars":5,
+"img": "images/shoe1.png",
+"location": "Tanzania",
+"createdAt": "2023-08-04 17:00:00",
+"updatedAt": "2023-08-04 17:00:00",
+"type_id": 2,
+}
+}
